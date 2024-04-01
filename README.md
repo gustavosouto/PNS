@@ -12,5 +12,5 @@
 
 # Time
 
-| [<img loading="lazy" src="[https://avatars.githubusercontent.com/u/33001620?v=4](https://avatars.githubusercontent.com/u/102989047?v=4)" width=115><br><sub>Gustavo Souto</sub>](https://github.com/gustavosouto) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/102989047?v=4" width=115><br><sub>Gustavo Souto</sub>](https://github.com/gustavosouto) |
 | :---: | :---: |
