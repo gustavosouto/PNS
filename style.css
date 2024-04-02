@@ -6,7 +6,7 @@
 }
 
 body {
-    background: linear-gradient(#1354A5 0%, #041832 33.33%, #041832 66.67%, #01080E 100%);
+    background: linear-gradient(#6a4444 0%, #573838 33.33%, #573838 66.67%, #392525 100%);
     height: 100vh;
     display: flex;
     align-items: center;
@@ -55,7 +55,7 @@ body::before {
 
 .container__botao {
     border-radius: 16px;
-    background: #1875E8;
+    background: #573838;
     padding: 16px 24px;
     width: 100%;
     font-size: 24px;
